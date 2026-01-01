@@ -1,61 +1,85 @@
-
 ```markdown
 <div align="center">
 
-# 👋 Hi, I'm **Kanani Shubham**
+# 👨‍💻 Kanani Shubham
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI%2FML+Developer;Building+Intelligent+Web+%26+Mobile+Apps;Crafting+Scalable+Modern+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+AI%2FML+Developer;Building+Intelligent+Web+%26+Mobile+Solutions)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<p align="center">
+  <em>Architecting scalable applications at the intersection of AI and modern web technologies</em>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham-Kanani)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkanani.2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kanani_shubham_)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shubham-kanani)
 
 </div>
 
 ---
 
-## 🎯 **What I Build**
+## 🎯 What I Build
 
-I architect and deploy **production-ready AI/ML applications**, modern **web platforms**, and **mobile experiences** that solve real-world problems. My focus is on **scalable infrastructure**, **intelligent automation**, and **seamless user experiences**.
+```typescript
+const expertise = {
+    focus: ["AI-Powered Applications", "Full Stack Development", "Mobile Solutions"],
+    approach: "Clean architecture • Performance-first • Production-ready",
+    impact: "Transforming ideas into scalable, intelligent systems"
+};
+```
 
-- 🤖 **AI-Powered Systems** – Virtual assistants, automation pipelines, intelligent workflows
-- 🌐 **Full-Stack Applications** – High-performance web and mobile apps with modern frameworks
-- 📄 **Enterprise Solutions** – Automated document generation, business tools, SaaS platforms
+**Core Competencies:**
+- 🤖 AI/ML integration for real-world applications
+- 🌐 End-to-end web & mobile development
+- ⚡ High-performance, scalable architectures
+- 🎨 Modern UI/UX with focus on user experience
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎙️ **Jarvis AI Assistant**
-Advanced AI-powered virtual assistant with natural language processing and task automation capabilities.
+### 🤖 Jarvis
+**AI Virtual Assistant**
 
-**Tech:** Python • NLP • Speech Recognition • AI/ML
+Advanced conversational AI system with natural language processing and task automation capabilities.
+
+`Python` `NLP` `AI/ML`
 
 </td>
 <td width="50%">
 
-### ⚡ **Prakriti EV Platform**
-Complete website redesign for electric vehicle company, focusing on modern UI/UX and performance optimization.
+### 🚗 Prakriti EV
+**Website Redesign**
 
-**Tech:** React.js • Node.js • Modern Design
+Complete digital transformation of EV platform with modern design principles and enhanced user engagement.
+
+`React` `UI/UX` `Performance`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📋 **Tender RFP Generator**
-Automated document generation system for enterprise tender responses with AI-assisted content creation.
+### 📄 Tender RFP Generator
+**Document Automation System**
 
-**Tech:** Python • FastAPI • PDF Generation • AI
+Intelligent PDF generation pipeline for automated tender document creation with customizable templates.
+
+`Python` `Automation` `FastAPI`
 
 </td>
 <td width="50%">
 
-### 🔮 **More Coming Soon**
-Currently building innovative solutions in AI/ML space and exploring Web3 integrations.
+### 🔮 More Projects
+**Continuous Innovation**
+
+Actively building solutions that bridge AI capabilities with practical business needs.
+
+`Full Stack` `AI/ML` `Innovation`
 
 </td>
 </tr>
@@ -63,18 +87,16 @@ Currently building innovative solutions in AI/ML space and exploring Web3 integr
 
 ---
 
-## 💼 **Tech Stack & Expertise**
+## 💻 Technology Arsenal
 
 <details open>
 <summary><b>🎨 Frontend Development</b></summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </details>
 
@@ -82,95 +104,96 @@ Currently building innovative solutions in AI/ML space and exploring Web3 integr
 <summary><b>⚙️ Backend & APIs</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>📱 Mobile Development</b></summary>
 <br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Cloud</b></summary>
+<summary><b>🧠 AI/ML & Data Science</b></summary>
 <br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
+<summary><b>🛠️ Tools & Workflow</b></summary>
 <br>
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </details>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kanani-Shubham&theme=tokyonight&hide_border=true" height="170" alt="streak graph"  />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="languages graph"  />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanani-Shubham&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
-</div>
-
----
-
-## 🤝 **Let's Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham-Kanani)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kanani_shubham_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkanani.2006@gmail.com)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shubham-kanani)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kanani-Shubham&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 *"Building intelligent systems that scale, innovate, and deliver impact"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
+### 💼 Open to Opportunities
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Kanani-Shubham&icon=2&color=6)](https://visitcount.itsvg.in)
+**Available for:** Full-time roles • Contract projects • Technical consulting
+
+*Building the future, one line of code at a time.*
+
+<br>
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Kanani-Shubham&icon=2&color=3)](https://visitcount.itsvg.in)
 
 </div>
 ```
