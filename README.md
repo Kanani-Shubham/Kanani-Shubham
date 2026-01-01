@@ -188,6 +188,6 @@ Actively building solutions that bridge AI capabilities with practical business 
 
 <br>
 
-[![Profile Views](https://www.linkedin.com/in/shubham-kanani-5694802b3/api?id=Kanani-Shubham&icon=2&color=3)](https://www.linkedin.com/in/shubham-kanani-5694802b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Profile Views](https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav)](https://www.linkedin.com/in/shubham-kanani-5694802b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </div>
