@@ -1,9 +1,6 @@
-```markdown
 <div align="center">
 
 # 👨‍💻 Kanani Shubham
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+AI%2FML+Developer;Building+Intelligent+Web+%26+Mobile+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
   <em>Architecting scalable applications at the intersection of AI and modern web technologies</em>
@@ -20,13 +17,11 @@
 
 ## 🎯 What I Build
 
-```typescript
-const expertise = {
-    focus: ["AI-Powered Applications", "Full Stack Development", "Mobile Solutions"],
-    approach: "Clean architecture • Performance-first • Production-ready",
-    impact: "Transforming ideas into scalable, intelligent systems"
-};
-```
+**Expertise**
+
+- **Focus:** AI-Powered Applications · Full Stack Development · Mobile Solutions  
+- **Approach:** Clean architecture · Performance-first · Production-ready  
+- **Impact:** Transforming ideas into scalable, intelligent systems
 
 **Core Competencies:**
 - 🤖 AI/ML integration for real-world applications
@@ -170,14 +165,14 @@ Actively building solutions that bridge AI capabilities with practical business 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kanani-Shubham&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kanani-Shubham&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -193,7 +188,6 @@ Actively building solutions that bridge AI capabilities with practical business 
 
 <br>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Kanani-Shubham&icon=2&color=3)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Kanani-Shubham&icon=2&color=3)](https://www.linkedin.com/in/shubham-kanani-5694802b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </div>
-```
