@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="100%" height="auto">
+  <defs>
+    <style>
+      .win { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+      .bar { fill: #161b22; }
+      .dot { }
+      .path { font-family: 'Courier New', Consolas, monospace; font-size: 13px; fill: #8b949e; }
+      .prompt { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #39d353; }
+      .cmd { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #e6edf3; }
+      .out { font-family: 'Courier New', Consolas, monospace; font-size: 15.5px; fill: #7ee0c3; }
+      .out2 { font-family: 'Courier New', Consolas, monospace; font-size: 15.5px; fill: #c9a8ff; }
+      .out3 { font-family: 'Courier New', Consolas, monospace; font-size: 15.5px; fill: #f5a742; }
+      .cursor { fill: #39d353; }
+      .glow { font-family: 'Courier New', Consolas, monospace; font-weight: bold; }
+    </style>
+    <linearGradient id="scrGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ambient glow -->
+  <rect x="0" y="0" width="900" height="340" fill="url(#glowGrad)"/>
+
+  <!-- terminal window -->
+  <rect x="20" y="16" width="860" height="308" rx="10" class="win" fill="url(#scrGrad)"/>
+  <rect x="20" y="16" width="860" height="34" rx="10" class="bar"/>
+  <rect x="20" y="38" width="860" height="12" class="bar"/>
+  <circle cx="42" cy="33" r="6" fill="#ff5f56"/>
+  <circle cx="62" cy="33" r="6" fill="#ffbd2e"/>
+  <circle cx="82" cy="33" r="6" fill="#27c93f"/>
+  <text x="450" y="38" text-anchor="middle" class="path">shubham@github ~ /portfolio</text>
+
+  <!-- typed content, revealed progressively -->
+  <g>
+    <text x="42" y="86" class="cmd">
+      <tspan class="prompt">shubham@github</tspan><tspan fill="#8b949e">:~$ </tspan>whoami
+      <animate attributeName="opacity" values="0;1" begin="0.1s" dur="0.01s" fill="freeze"/>
+    </text>
+
+    <text x="42" y="118" class="out glow" font-size="20">
+      &gt; Shubham Kanani — Full Stack &amp; AI Application Developer
+      <animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="42" y="150" class="cmd">
+      <tspan class="prompt">shubham@github</tspan><tspan fill="#8b949e">:~$ </tspan>cat status.log
+      <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.01s" fill="freeze"/>
+    </text>
+    <text x="42" y="180" class="out2">
+      &gt; Pre-final year B.Tech IT student. Building real AI products, SaaS platforms, automation tools &amp; mobile apps.
+      <animate attributeName="opacity" values="0;1" begin="2.3s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="42" y="212" class="cmd">
+      <tspan class="prompt">shubham@github</tspan><tspan fill="#8b949e">:~$ </tspan>./check_availability.sh
+      <animate attributeName="opacity" values="0;1" begin="3.0s" dur="0.01s" fill="freeze"/>
+    </text>
+    <text x="42" y="242" class="out3">
+      &gt; STATUS: open_to_work = true  |  role = "Software Engineering Intern"  |  paid = true
+      <animate attributeName="opacity" values="0;1" begin="3.7s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="42" y="274" class="cmd">
+      <tspan class="prompt">shubham@github</tspan><tspan fill="#8b949e">:~$ </tspan><tspan id="blinktxt"> </tspan>
+      <animate attributeName="opacity" values="0;1" begin="4.4s" dur="0.01s" fill="freeze"/>
+    </text>
+    <rect x="52" y="262" width="9" height="16" class="cursor">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.647;0.647;0.75;0.75;1" dur="6.8s" begin="4.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
