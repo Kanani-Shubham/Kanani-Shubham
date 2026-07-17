@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Shubham%20Kanani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20AI%20Application%20Developer%20%7C%20Building%20products%2C%20not%20demos&descAlignY=52&descSize=17" width="100%"/>
 
 <!-- ============ ASCII PORTRAIT ANIMATION ============ -->
-<!-- Upload profile_ascii.svg to an `assets/` folder in this repo -->
-<img src="assets/profile_ascii.gif" width="400" alt="Shubham Kanani ASCII portrait animation"/>
+<!-- File lives at: asset/profile_ascii.svg in this repo -->
+<img src="asset/profile_ascii.svg" width="400" alt="Shubham Kanani ASCII portrait animation"/>
 
 <br/>
 
@@ -15,15 +15,15 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kanani-5694802b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kanani-5694802b3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkanani.2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanani-Shubham)
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20SWE%20Internships-39d353?style=for-the-badge&labelColor=000000)
-![Location](https://img.shields.io/badge/BASE-Kodinar%2C%20Gujarat%2C%20India-6C63FF?style=for-the-badge&labelColor=000000)
-![Education](https://img.shields.io/badge/B.Tech%20IT-Expected%20May%202027-F55036?style=for-the-badge&labelColor=000000)
+![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Paid%20SWE%20Internships-39d353?style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/PRE--FINAL%20YEAR-Building%20Real%20World%20AI%20Products-6C63FF?style=for-the-badge&labelColor=000000)
+![Education](https://img.shields.io/badge/B.Tech%20IT-Engineering%20Student-F55036?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -46,17 +46,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a pre-final year **B.Tech (Information Technology)** student who builds AI-powered, full-stack, and mobile products end to end — from idea to a deployed, working app. I work primarily in **React.js, Node.js, Python, and Flutter**, wiring in modern AI APIs (Gemini, Groq, Hugging Face, Cohere) to solve real problems rather than ship demos.
+Pre-final year **B.Tech (Information Technology)** engineering student, actively building real-world **AI products, SaaS platforms, automation tools, and mobile applications** while seeking a **paid Software Engineering internship**. I work primarily in **React.js, Node.js, Python, and Flutter**, wiring in modern AI APIs (Gemini, Groq, Hugging Face, Cohere) to solve real problems rather than ship demos.
 
 ```
 const shubham = {
+    name: "Shubham Kanani",
     role: "Full Stack Developer / AI Application Developer",
-    location: "Kodinar, Gujarat, India",
-    education: "B.Tech IT — Gyan Manjari Innovative University, 2027",
+    education: "B.Tech Information Technology (Pre-Final Year)",
+    status: "Actively building AI products, SaaS platforms & automation tools",
     languages: ["Python", "JavaScript", "TypeScript", "Java"],
     currentFocus: "AI application architecture & agentic workflows",
     funFact: "Shipped 15+ projects with zero institutional support",
-    lookingFor: "Software Engineering Internships"
+    lookingFor: "Paid Software Engineering Internship"
 };
 ```
 
@@ -261,7 +262,7 @@ AI-generated practice questions across Reasoning, Maths, GK, Current Affairs, an
 
 <img src="https://raw.githubusercontent.com/Kanani-Shubham/Kanani-Shubham/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
 
-<sub>Animates your real contribution graph into a snake that eats your commits — auto-generates via GitHub Actions. Setup file included: <code>snake.yml</code> (see below).</sub>
+<sub>Animates your real contribution graph into a snake that eats your commits — auto-generates via the GitHub Actions workflow at <code>.github/workflows/snake.yml</code>.</sub>
 
 </div>
 
@@ -271,7 +272,7 @@ AI-generated practice questions across Reasoning, Maths, GK, Current Affairs, an
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kanani-5694802b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kanani-5694802b3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkanani.2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanani-Shubham)
 
