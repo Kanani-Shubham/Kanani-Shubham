@@ -4,7 +4,7 @@
 
 <!-- ============ ASCII PORTRAIT ANIMATION ============ -->
 <!-- Upload profile_ascii.svg to an `assets/` folder in this repo -->
-<img src="assets/profile_ascii.svg" width="400" alt="Shubham Kanani ASCII portrait animation"/>
+<img src="assets/profile_ascii.gif" width="400" alt="Shubham Kanani ASCII portrait animation"/>
 
 <br/>
 
