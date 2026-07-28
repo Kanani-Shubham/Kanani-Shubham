@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Kanani Shubham
+# 👨‍💻 Kanani Shubham 
 
 <p align="center">
   <em>Architecting scalable applications at the intersection of AI and modern web technologies</em>
