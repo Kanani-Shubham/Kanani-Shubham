@@ -1,229 +1,194 @@
 <div align="center">
 
-<img src="asset/hero_terminal.svg" width="100%" alt="Shubham Kanani terminal boot sequence"/>
+# 👨‍💻 Kanani Shubham
 
-<br/><br/>
+<p align="center">
+  <em>Architecting scalable applications at the intersection of AI and modern web technologies</em>
+</p>
 
-<img src="asset/profile_ascii.svg" width="380" alt="Shubham Kanani ASCII portrait, rendered live from source"/>
-<br/>
-
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shubham-kanani-5694802b3)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836)](mailto:shubhamkanani.2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Kanani-Shubham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham-Kanani)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkanani.2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kanani_shubham_)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shubham-kanani)
 
 </div>
 
-<br/>
+---
 
-```bash
-shubham@github:~$ cat about.txt
-```
+## 🎯 What I Build
 
-Pre-final year **B.Tech (Information Technology)** engineering student, actively building real-world **AI products, SaaS platforms, automation tools, and mobile applications** — currently looking for a **paid Software Engineering internship**.
+**Expertise**
 
-I work mainly in **React.js, Node.js, Python, and Flutter**, and I don't stop at wiring an API — I integrate Gemini, Groq, Hugging Face, and Cohere into products people actually use, end to end.
+- **Focus:** AI-Powered Applications · Full Stack Development · Mobile Solutions  
+- **Approach:** Clean architecture · Performance-first · Production-ready  
+- **Impact:** Transforming ideas into scalable, intelligent systems
 
-```json
-{
-  "name": "Shubham Kanani",
-  "role": "Full Stack Developer / AI Application Developer",
-  "education": "B.Tech Information Technology — Pre-Final Year",
-  "location": "Kodinar, Gujarat, India",
-  "focus": ["AI application architecture", "agentic workflows"],
-  "shipped": "15+ projects, zero institutional support",
-  "seeking": "Paid Software Engineering Internship",
-  "status": "open_to_work"
-}
-```
+**Core Competencies:**
+- 🤖 AI/ML integration for real-world applications
+- 🌐 End-to-end web & mobile development
+- ⚡ High-performance, scalable architectures
+- 🎨 Modern UI/UX with focus on user experience
 
-<br/>
+---
 
-```bash
-shubham@github:~$ ./impact_dashboard.sh --live
-```
-
-<div align="center">
-<img src="asset/impact_dashboard.svg" width="100%" alt="Impact dashboard: score, rank, projects, hackathons"/>
-</div>
-
-<br/>
-
-```bash
-shubham@github:~$ cat stack.manifest | grep -A2 category
-```
+## 🚀 Featured Projects
 
 <table>
-<tr><td width="120"><code>languages</code></td><td>
+<tr>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java" />
+### 🤖 Jarvis
+**AI Virtual Assistant**
 
-</td></tr>
-<tr><td><code>frontend</code></td><td>
+Advanced conversational AI system with natural language processing and task automation capabilities.
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+`Python` `NLP` `AI/ML`
 
-</td></tr>
-<tr><td><code>backend</code></td><td>
+</td>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django" />
+### 🚗 Prakriti EV
+**Website Redesign**
 
-</td></tr>
-<tr><td><code>mobile</code></td><td>
+Complete digital transformation of EV platform with modern design principles and enhanced user engagement.
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+`React` `UI/UX` `Performance`
 
-</td></tr>
-<tr><td><code>data</code></td><td>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+### 📄 Tender RFP Generator
+**Document Automation System**
 
-</td></tr>
-<tr><td><code>ai / llm</code></td><td>
+Intelligent PDF generation pipeline for automated tender document creation with customizable templates.
 
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Cohere](https://img.shields.io/badge/Cohere-39594C?style=flat-square&logoColor=white)
+`Python` `Automation` `FastAPI`
 
-</td></tr>
-<tr><td><code>tooling</code></td><td>
+</td>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,aws,vscode" />
+### 🔮 More Projects
+**Continuous Innovation**
 
-</td></tr>
+Actively building solutions that bridge AI capabilities with practical business needs.
+
+`Full Stack` `AI/ML` `Innovation`
+
+</td>
+</tr>
 </table>
 
-```
-proficiency --sorted-desc
-React.js / Node.js              [██████████████████░░]  90%
-AI Integration (Gemini / Groq)  [█████████████████░░░]  88%
-Python (Flask / FastAPI)        [█████████████████░░░]  85%
-Flutter                         [███████████████░░░░░]  75%
-TypeScript                      [██████████████░░░░░░]  70%
-DevOps / AWS                    [████████████░░░░░░░░]  60%
-```
+---
 
-<br/>
+## 💻 Technology Arsenal
 
-```bash
-shubham@github:~$ ls -la ~/projects --sort=featured
-```
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-**`-rwxr-xr-x  talentos_ai.project`** — **AI Career Intelligence Platform**
-Analyzes resumes, GitHub profiles, and skills to generate personalized career roadmaps, surface skill gaps, and recommend internships/jobs. Secure auth, resume parsing, real-time dashboard on Supabase.
-`React.js` `TypeScript` `Node.js` `Supabase` `Gemini AI` `Groq` `PostgreSQL` · [Live Demo](#) · [GitHub](#)
-
-**`-rwxr-xr-x  ecosphere_ai.project`** — **Carbon Footprint Tracker — Hack2Skill 96.19/100**
-Full-stack sustainability platform using Gemini Vision OCR for receipt analysis, real-time carbon tracking, gamified challenges, WCAG 2.1 AA accessibility, offline-first via IndexedDB + PWA.
-`React.js` `TypeScript` `Node.js` `Gemini Vision` `PWA` `IndexedDB` · [Live Demo](#) · [GitHub](#)
-
-**`-rwxr-xr-x  mockmate_ai.project`** — **Interview Practice Platform**
-Flask powers the frontend, FastAPI handles AI-based response evaluation — structured feedback, scores, improvement tips, role-specific question generation via prompt engineering.
-`Python` `Flask` `FastAPI` `Gemini API` · [Live Demo](#) · [GitHub](#)
-
-**`-rwxr-xr-x  trademind_ai.project`** — **Virtual Trading Simulator**
-Paper-trading platform on real-time Indian equity/crypto feeds — simulated orders, portfolio management, brokerage-fee simulation, plus a Gemini-powered assistant explaining trade rationale to beginners.
-`React.js` `Node.js` `Gemini API` `Market Data APIs` · [GitHub](#)
-
-**`-rwxr-xr-x  tender_rfp_generator.project`** — **AI Document Automation**
-Accepts project parameters via a web form, uses Gemini to draft formal tender/RFP content, renders a professional PDF — cutting drafting time from days to minutes.
-`Python` `Flask` `Gemini API` `PDF Automation` · [Live Demo](#) · [GitHub](#)
-
-**`-rwxr-xr-x  gov_exam_ai.project`** — **Adaptive Exam Prep Platform**
-AI-generated practice questions across Reasoning, Maths, GK, Current Affairs, Language, timed test mode, and a document-upload pipeline that mines prior-year papers into practice sessions.
-`React.js` `Gemini API` `File Processing` · [GitHub](#)
-
-<details>
-<summary><code>$ ls -la ~/projects --all</code> (9 more)</summary>
-<br/>
-
-| file | description | stack |
-|---|---|---|
-| `daily247_scheduler` | NLP-driven daily schedule generator, manual editing | Python, NLP |
-| `hiresense_ai` | Flutter interview-readiness app, 4-person team | Flutter |
-| `veg_recipe_ai` | Recipe API + Gemini for search, generation, meal planning | Flutter, Gemini API |
-| `secure_notes_pro` | Offline notes — PIN security, Hive, mood colours, JSON backup | Flutter, Hive |
-| `referee_ai` | Evaluates competing options via LLM, explains the stronger choice | LLM |
-| `phonkify` | Music web app with Gemini tune-description generator | React.js, Gemini API |
-| `jagdish_cafe` | Café web app — customer menu + admin panel | React.js |
-| `prakriti_ev_redesign` | EV company frontend redesign — layout, hierarchy, responsiveness | HTML, CSS |
-| `jarvis_assistant` | Voice-command assistant — search, app control, news, AI Q&A | Python |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </details>
 
-<br/>
+<details open>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br>
 
-```bash
-shubham@github:~$ cat achievements.log
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-- `[HACKATHON]` **Hack2Skill PromptWars 2026** (National Virtual) — *EcoSphere AI* — Full-Stack & AI Developer — **96.19/100**, ranked **#161 / 37,783**
-- `[HACKATHON]` **CodeWave Hackathon**, Bhavnagar — *MockMate AI* — Full-Stack Developer
-- `[HACKATHON]` **Odoo Hackathon** — *LinkNLearn* (Skill Swap Platform) — Backend Developer
-- `[HACKATHON]` **InnoApp Event**, GMIU — *SoulSpeak* — Android Developer
-- `[INTERNSHIP]` **Fuellens** — Android App Developer — production Java features, regression testing
-- `[INTERNSHIP]` **RankerMonkey** — SEO Specialist — keyword research, on-page optimisation
+</details>
 
-```bash
-shubham@github:~$ cat certifications.log | column
-```
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
 
-`Google Cloud Gen AI Academy 2.0 (DevOps)` · `AWS ML Ready Organization` · `Generative AI Mastermind (OutSkill)` · `Core Java (Infosys Springboard)` · `Python Programming Fundamentals` · `JavaScript Certification` · `Mobile App Development (Simplilearn)` · `Introduction to Flutter` · `SQL Views & Database Concepts` · `Responsible AI (Google)` · `Image Captioning Models (Google)` · `Front-End Development: HTML & CSS`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br/>
+</details>
 
-```bash
-shubham@github:~$ ./stats.sh --source github --live
-```
+<details open>
+<summary><b>🧠 AI/ML & Data Science</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Workflow</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanani-Shubham&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kanani-Shubham&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanani-Shubham&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
-
-```bash
-shubham@github:~$ ./contribution_snake.sh --render
-```
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kanani-Shubham/Kanani-Shubham/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
-<sub>Real commit graph, animated by a snake. Auto-regenerates via <code>.github/workflows/snake.yml</code>.</sub>
-</div>
-
-<br/>
-
-```bash
-shubham@github:~$ ping contact --open-to reply
-```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/shubham--kanani-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shubham-kanani-5694802b3)
-[![Gmail](https://img.shields.io/badge/-shubhamkanani.2006@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D14836)](mailto:shubhamkanani.2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/-github.com/Kanani--Shubham-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Kanani-Shubham)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kanani-Shubham&color=39d353&style=flat-square&label=connections+served)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kanani-Shubham&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
-<img src="asset/footer_terminal.svg" width="100%" alt="terminal session closed"/>
+---
+
+<div align="center">
+
+### 💼 Open to Opportunities
+
+**Available for:** Full-time roles • Contract projects • Technical consulting
+
+*Building the future, one line of code at a time.*
+
+<br>
+
+[![Profile Image](https://github.com/Kanani-Shubham.png)](https://www.linkedin.com/in/shubham-kanani-5694802b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+Welcome to my GitHub profile!
+</div>
