@@ -209,18 +209,26 @@ I am a pre-final year **Information Technology engineering student** with hands-
 
 ## 💼 Work Experience
 
+### 📱 **Fuellens** — *Android App Developer Intern*
+> **Duration**: `2025` | **Domain**: `Mobile Application Engineering` | **Stack**: `Android (Java)` • `Android SDK` • `Material Design` • `Mobile UI`
+
 ```text
- ┌────────────────────────────────────────────────────────────────────────────────────────┐
- │ WORK EXPERIENCE TIMELINE                                                              │
- ├────────────────────────────────────────────────────────────────────────────────────────┤
- │ 📱 Fuellens — Android App Developer Intern                                 [2025]     │
- │    • Engineered production Android UI screens and core Java logic for public release. │
- │    • Executed systematic feature integration and pre-release regression testing.      │
- ├────────────────────────────────────────────────────────────────────────────────────────┤
- │ 📈 RankerMonkey — SEO Specialist Intern                                    [2024]     │
- │    • Executed structured on-page SEO optimization and strategic keyword research.      │
- │    • Tracked ranking metrics and traffic analytics to guide optimization strategy.     │
- └────────────────────────────────────────────────────────────────────────────────────────┘
+  • Feature Engineering   : Engineered production Android features in Java, designing and implementing
+                            multiple core UI screens and business logic supporting the public app release.
+  • Quality & Stability   : Executed systematic feature integration and manual regression testing,
+                            identifying and resolving defects pre-release to maintain app stability.
+```
+
+---
+
+### 📈 **RankerMonkey** — *SEO Specialist Intern*
+> **Duration**: `2024` | **Domain**: `Search Optimization & Web Analytics` | **Stack**: `On-Page SEO` • `Keyword Research` • `Search Analytics`
+
+```text
+  • Search Visibility     : Executed targeted keyword research and applied structured on-page SEO
+                            optimizations across client websites, improving organic search rankings.
+  • Analytics Reporting   : Tracked ranking and traffic metrics, delivering data-driven insights
+                            to guide ongoing technical and content optimization decisions.
 ```
 
 ---
