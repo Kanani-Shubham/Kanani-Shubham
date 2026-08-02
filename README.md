@@ -1,194 +1,166 @@
 <div align="center">
 
-# 👨‍💻 Kanani Shubham 
+```text
+  ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
+  ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
+  ███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║
+  ╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║
+  ███████║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
+  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 
-<p align="center">
-  <em>Architecting scalable applications at the intersection of AI and modern web technologies</em>
-</p>
+  ██╗  ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██╗
+  ██║ ██╔╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║██║
+  █████═╝ ███████║██╔██╗ ██║███████║██╔██╗ ██║██║
+  ██╔═██╗ ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║
+  ██║  ██╗██║  ██║██║ ╚████║██║  ██║██║ ╚████║██║
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham-Kanani)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkanani.2006@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kanani_shubham_)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shubham-kanani)
+# 🎮 SHUBHAM KANANI | FULL STACK & AI ENGINEER
+### 🚀 *Interactive 2D Pixel RPG Portfolio • AI Systems Builder • Open Source Contributor*
+
+[![Live 2D RPG Portfolio](https://img.shields.io/badge/🎮_PLAY_2D_RPG_PORTFOLIO-shubhamkanani.netlify.app-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shubhamkanani.netlify.app/)
+[![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Google Gemini AI](https://img.shields.io/badge/Google_Gemini-AI_SDK_v2.4-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
+[![Hack2Skill Winner](https://img.shields.io/badge/Hack2Skill_2026-Rank_%23161_of_37%2C783-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](https://github.com/Kanani-Shubham)
+
+<br />
+
+---
+
+## 🕹️ Interactive Web View & Live RPG Exhibition
+
+> [!TIP]
+> ### 🌐 Experience the Interactive 2D RPG World Live in Browser!
+> Walk around a retro 2D pixel campus, talk with specialized AI domain NPCs, inspect full-stack projects in macOS lightboxes, and run live interactive terminal commands!
+> 
+> 👉 **[PLAY SHUBHAM'S 2D RPG PORTFOLIO LIVE AT SHUBHAMKANANI.NETLIFY.APP](https://shubhamkanani.netlify.app/)** 👈
+
+<div align="center">
+  <a href="https://shubhamkanani.netlify.app/">
+    <img src="https://img.shields.io/badge/▶️_LAUNCH_LIVE_INTERACTIVE_GAMEWORKSTATION-00FF88?style=for-the-badge&logo=playstation&logoColor=black" width="600" alt="Play RPG Portfolio Live" />
+  </a>
+</div>
 
 </div>
 
 ---
 
-## 🎯 What I Build
+## 🏆 Quest Achievement: Hack2Skill PromptWars 2026
 
-**Expertise**
-
-- **Focus:** AI-Powered Applications · Full Stack Development · Mobile Solutions  
-- **Approach:** Clean architecture · Performance-first · Production-ready  
-- **Impact:** Transforming ideas into scalable, intelligent systems
-
-**Core Competencies:**
-- 🤖 AI/ML integration for real-world applications
-- 🌐 End-to-end web & mobile development
-- ⚡ High-performance, scalable architectures
-- 🎨 Modern UI/UX with focus on user experience
+> [!IMPORTANT]
+> **TOP 0.43% NATIONWIDE — HACK2SKILL PROMPTWARS 2026**
+> * 🎖️ **National Rank**: `#161` out of `37,783` Participants
+> * 🎯 **Final Score**: `96.19 / 100`
+> * 🌿 **Winning Project**: **EcoSphere AI** *(Full-Stack Carbon Footprint & Receipt OCR Sustainability Platform)*
 
 ---
 
-## 🚀 Featured Projects
+## 👤 Character Bio & Player Stats
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Jarvis
-**AI Virtual Assistant**
-
-Advanced conversational AI system with natural language processing and task automation capabilities.
-
-`Python` `NLP` `AI/ML`
-
-</td>
-<td width="50%">
-
-### 🚗 Prakriti EV
-**Website Redesign**
-
-Complete digital transformation of EV platform with modern design principles and enhanced user engagement.
-
-`React` `UI/UX` `Performance`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📄 Tender RFP Generator
-**Document Automation System**
-
-Intelligent PDF generation pipeline for automated tender document creation with customizable templates.
-
-`Python` `Automation` `FastAPI`
-
-</td>
-<td width="50%">
-
-### 🔮 More Projects
-**Continuous Innovation**
-
-Actively building solutions that bridge AI capabilities with practical business needs.
-
-`Full Stack` `AI/ML` `Innovation`
-
-</td>
-</tr>
-</table>
+```text
+ ┌──────────────────────┬────────────────────────────────────────────────────────────────────────┐
+ │ Attribute            │ Value / Details                                                        │
+ ├──────────────────────┼────────────────────────────────────────────────────────────────────────┤
+ │ 👤 Player Name       │ Shubham Kanani                                                         │
+ │ 🎓 Education         │ B.Tech — Information Technology @ Gyan Manjari Innovative University  │
+ │ 📊 Academic Standing │ CGPA: 7.979 / 10 (Expected Graduation: May 2027)                      │
+ │ 📍 Location          │ Gujarat, India                                                         │
+ │ 💼 Current Status    │ Open for Software Engineering & AI Development Internships             │
+ │ ⚡ Key Specialization│ React 19, Node.js, Python, Gemini Vision OCR, Mobile & PWA Apps        │
+ └──────────────────────┴────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 💻 Technology Arsenal
+## ⚔️ Tech Stack & Ability Tree
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br>
-
+### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🧠 AI/ML & Data Science</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Workflow</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-</details>
+### 🧠 AI Core & Machine Learning
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Gemini Vision OCR](https://img.shields.io/badge/Gemini_Vision_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_Llama3_API-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Inventory (Projects & Live Demos)
+
+| Project Name | Stack | Description | Live Demo | Source Code |
+| :--- | :--- | :--- | :---: | :---: |
+| 🌿 **EcoSphere AI** | React, Python, Gemini Vision | 🏆 Rank #161 / 37,783 Winner. Real-time OCR receipt carbon footprint audit & sustainability score. | [🌐 Live App](https://ecosphere-ai.onrender.com) | [💻 GitHub](https://github.com/Kanani-Shubham) |
+| 🎯 **TalentOS AI** | React, Node.js, Express, Gemini | Multi-agent ATS resume scorer, real-time job matcher & interactive PDF resume builder. | [🌐 Live App](https://talentos-ai.onrender.com) | [💻 GitHub](https://github.com/Kanani-Shubham) |
+| 💬 **MockMate AI** | React, Node.js, Web Audio API | Adaptive technical interview practice platform evaluating spoken answers with AI feedback. | [🌐 Live App](https://mockmate-interview.onrender.com) | [💻 GitHub](https://github.com/Kanani-Shubham) |
+| 📑 **Tender RFP Generator** | Python, FastAPI, ReportLab | Automated procurement RFP document generator & dynamic bulk PDF compilation pipeline. | [🌐 Live App](https://tender-document.onrender.com) | [💻 GitHub](https://github.com/Kanani-Shubham) |
+| 📈 **TradeMind AI** | React, Python, Chart.js, APIs | Simulated stock & crypto trading dashboard featuring real-time market sentiment summaries. | [🎮 Play RPG](https://shubhamkanani.netlify.app/) | [💻 GitHub](https://github.com/Kanani-Shubham) |
+
+---
+
+## 📜 Quest History (Work Experience)
+
+```text
+ ┌───────────────────────┬───────────────────────────────┬────────────┬────────────────────────────────────────────────────────┐
+ │ Company               │ Role                          │ Timeline   │ Quest Accomplishments                                  │
+ ├───────────────────────┼───────────────────────────────┼────────────┼────────────────────────────────────────────────────────┤
+ │ 📱 Fuellens           │ Android App Developer Intern  │ 2025       │ Engineered Java features, custom UI screens, and core  │
+ │                       │                               │            │ business logic for public Play Store release.          │
+ ├───────────────────────┼───────────────────────────────┼────────────┼────────────────────────────────────────────────────────┤
+ │ 📈 RankerMonkey       │ SEO Specialist Intern         │ 2024       │ Applied on-page SEO optimization & keyword research,   │
+ │                       │                               │            │ boosting organic search visibility and analytics.      │
+ └───────────────────────┴───────────────────────────────┴────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏆 Certifications & Trophy Cabinet
+
+- 🥇 **Google Cloud Gen AI Academy 2.0 (DevOps Track)** — *Google Cloud*
+- 🥇 **AWS Machine Learning Ready Organization** — *Amazon Web Services*
+- 🥇 **Generative AI Mastermind** — *OutSkill*
+- 🥇 **Programming in Core Java / Python / JavaScript** — *Infosys Springboard*
+- 🥇 **Mobile App Development** — *Simplilearn*
+- 🥇 **Introduction to Flutter & Responsible AI** — *Google*
+
+---
+
+## 📊 Player GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kanani-Shubham&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanani-Shubham&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Shubham Kanani GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanani-Shubham&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 ---
 
+## 📬 Connect & Multiplayer Party Invites
+
 <div align="center">
 
-### 💼 Open to Opportunities
+[![Email](https://img.shields.io/badge/Email-shubhamkanani.2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkanani.2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham_Kanani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kanani-5694802b3)
+[![GitHub](https://img.shields.io/badge/GitHub-Kanani--Shubham-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanani-Shubham)
+[![Resume PDF](https://img.shields.io/badge/📄_Download_Resume-PDF_Format-00FF88?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black)](https://shubhamkanani.netlify.app/shubham_kanani_resume.pdf)
 
-**Available for:** Full-time roles • Contract projects • Technical consulting
+<br />
 
-*Building the future, one line of code at a time.*
+```text
+      ╔══════════════════════════════════════════════════════════════╗
+      ║  DESIGNED & DEVELOPED WITH ❤️ BY SHUBHAM KANANI · 2026       ║
+      ╚══════════════════════════════════════════════════════════════╝
+```
 
-<br>
-
-[![Profile Image](https://github.com/Kanani-Shubham.png)](https://www.linkedin.com/in/shubham-kanani-5694802b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-Welcome to my GitHub profile!
 </div>
