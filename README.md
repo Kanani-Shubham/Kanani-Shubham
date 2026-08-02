@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER SVG TYPEWRITER -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=800&height=45&lines=SHUBHAM+KANANI+%E2%80%94+FULL+STACK+%26+AI+ENGINEER;BUILDING+PRODUCTION+AI+PRODUCTS+%26+SYSTEMS;REACT+19+%7C+TYPESCRIPT+%7C+PYTHON+%7C+GEMINI+SDK;AVAILABLE+FOR+SOFTWARE+ENGINEERING+INTERNSHIPS" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=900&height=45&lines=SHUBHAM+KANANI+%E2%80%94+FULL+STACK+%26+AI+ENGINEER;BUILDING+PRODUCTION+AI+PRODUCTS+%26+SYSTEMS;REACT+19+%7C+TYPESCRIPT+%7C+PYTHON+%7C+GEMINI+SDK;AVAILABLE+FOR+SOFTWARE+ENGINEERING+INTERNSHIPS" alt="Typing Header" />
 
 ```text
   ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
